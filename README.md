@@ -27,7 +27,7 @@
     ```
 2. Clone the repository and install
    ```bash
-   git clone https://github.com/CarlosMolinesPastor/dots
+   git clone https://github.com/CarlosMolinesPastor/dots.git
    cd dots
    stow .
    ```
