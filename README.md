@@ -25,7 +25,7 @@
     ./nerdinstall.sh
     cd ~
     ```
-2. Clone the repository and install
+   - Clone the repository and install
    ```bash
    git clone https://github.com/CarlosMolinesPastor/dots.git
    cd dots
